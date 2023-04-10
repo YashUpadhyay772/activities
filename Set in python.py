@@ -1,3 +1,9 @@
+'''
+Problem - I 
+
+sentence = "Hey I am walking here I am walking here o captain my captain water water everywhere nor a drop to drik"
+print(verse, "\n")
+
 # split sentence into list of words
 sentence_list =  # You will have to fill out the function 
 print(sentence_list, '\n')
